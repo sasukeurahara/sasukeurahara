@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Sreedweep Sharma</h1>
-<h3 align="center">An AI developer from India who loves to Solve problems wirh</h3>
+<h3 align="center">An AI developer from India who loves to Solve real life problems</h3>
 
 - 🔭 I’m currently working on **Large Language Models**
 
