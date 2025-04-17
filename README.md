@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Large Language Models**
 
-- ⚡ Fun fact **Vibe coding is a vibe**
+- ⚡ Fun fact : **Vibe coding is a vibe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
